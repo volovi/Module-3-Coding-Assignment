@@ -25,9 +25,8 @@
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	border: 1px solid gray;
 }
-section {
+.menu-option {
 	background-color: lightGray;
-	margin: 0px -15px 0px -15px;
-	padding: 0px 15px 0px 15px;
-	color: black;
+	padding-left: 15px;
+	padding-right: 15px;
 }
